@@ -1,0 +1,116 @@
+# Translation of Themes - Elegant Portfolio in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Elegant Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-02 14:20:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Elegant Portfolio\n"
+
+#. Theme Name of the theme
+msgid "Elegant Portfolio"
+msgstr "Elegant Portfolio"
+
+#. Description of the theme
+msgid "Elegant Portfolio is a child theme of Perfect Portfolio Free WordPress theme. You can use this theme to create a clean, elegant, and fully-responsive portfolio or blog using this theme. This theme can be an ideal choice to create portfolio sites for photographers, digital agencies, artists, graphic designers, painters, and other freelance artistic or creative works. You can create a attractive portfolio website with this theme and impress your visitors. It is a cross-browser compatible and highly customizable theme which comes with multiple customization option to allow you design your website as per your desire. You can use this theme for free for life time for both personal and commercial purpose. Furthermore, it is a speed optimized theme which gives your visitors a great user experience and increase user-engagement on your website. It is ultra-SEO optimized with Schema.org markup ready which boosts the search engine ranking of your website. Various other amazing features of this theme include translation ready, colors options, social media integration, copyright text and much more. You can also enjoy regular updates for free. Elegant Portfolio is also backed with the super-friendly support team to help you when you need assistance. Check the demo at https://rarathemes.com/previews/?theme=elegant-portfolio/, documentation at https://docs.rarathemes.com/docs/elegant-portfolio/ and get support at https://rarathemes.com/support-forum/."
+msgstr "Elegant Portfolio es un tema secundario del tema gratuito Perfect Portfolio para WordPress. Puedes usar este tema para crear un portafolio o blog limpio, elegante y con completa capacidad de respuesta usando este tema. Este tema puede ser una opción ideal para crear sitios de portafolios para fotógrafos, agencias digitales, artistas, diseñadores gráficos, pintores y otros trabajos artísticos o creativos independientes. Puedes crear un atractivo sitio web de portafolio con este tema e impresionar a tus visitantes. Es un tema compatible con todos los navegadores y altamente personalizable que viene con múltiples opciones de personalización para permitirte diseñar tu sitio web según desees. Puedes utilizar este tema de forma gratuita de por vida tanto para fines personales como comerciales. Además, es un tema optimizado para la velocidad que da a tus visitantes una gran experiencia de usuario y aumenta el grado de interacción del usuario en tu sitio web. Está optimizado para ultra SEO, listo para el marcado de Schema.org, lo cual aumenta el posicionamiento de tu sitio web en los motores de búsqueda. Otras características sorprendentes de este tema incluyen estar listo para traducir, opciones de colores, integración de medios sociales, texto de derecho de autor y mucho más. También puedes disfrutar de actualizaciones regulares de forma gratuita. Elegant Portfolio también está respaldado por un equipo de apoyo súper amigable que te ayudará cuando necesites ayuda. Revisa la demostración en https://rarathemes.com/previews/?theme=elegant-portfolio/, la documentación en https://docs.rarathemes.com/docs/elegant-portfolio/ y obtén soporte en https://rarathemes.com/support-forum/."
+
+#: functions.php:307
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: functions.php:272
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:185
+msgid "Add Text Widget for contact form and \"Rara:Contact Widget\" for contact details."
+msgstr "Añade un widget de texto para el formulario de contacto y el widget «Rara: Contact» para los datos de contacto."
+
+#: functions.php:183
+msgid "Contact Section"
+msgstr "Sección de contacto "
+
+#: functions.php:147
+msgid " Powered by %s"
+msgstr " Funciona con %s"
+
+#: functions.php:144
+msgid "Elegant Portfolio | Developed By "
+msgstr "Elegant Portfolio | Desarrollado por "
+
+#: functions.php:123
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la documentación: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:121
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:108
+msgid "Demo & Documentation"
+msgstr "Demostración y documentación"
+
+#: functions.php:91
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:90
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:69
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:68
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:48
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:40
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personaliza la tipografía, la imagen de la cabecera y la imagen del fondo"
+
+#: functions.php:39
+msgid "Appearance Settings"
+msgstr "Ajustes de apariencia"
+
+#: functions.php:147
+msgid "https://wordpress.org/"
+msgstr "https://es-mx.wordpress.org"
+
+#: functions.php:308
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "encendido"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:306
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "encendido"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:145
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/elegant-portfolio/"
+msgstr "https://rarathemes.com/wordpress-themes/elegant-portfolio/"
